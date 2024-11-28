@@ -1,7 +1,7 @@
 Project Title: Covid Analysis Using R programming
 Getting Started
 
-1.Clone the repository: 
+1.Clone the repository: https://github.com/Sounak-16/Covid-Analysis-.git
 2.Install dependencies
 3.Run the script
 
